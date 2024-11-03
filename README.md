@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ChhaySereyVath/ChhaySereyVath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![](https://visitcount.itsvg.in/api?id=ChhaySereyVath&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
